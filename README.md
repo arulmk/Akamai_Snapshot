@@ -77,3 +77,7 @@ Calls that hit rate limits (429) or server errors (5xx) are retried automaticall
 
 - Credentials are read from your local `.edgerc` and are never written to the output.
 - The `.gitignore` excludes `.edgerc` and all snapshot output. The output holds property and hostname names, so check it before sharing.
+
+## Credits
+
+Built with the help of [Claude](https://claude.ai) (Anthropic).
