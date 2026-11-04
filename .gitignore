@@ -1,0 +1,15 @@
+# Credentials - never commit these
+.edgerc
+*.edgerc
+
+# Snapshot output (contains your property/hostname data)
+akamai_snapshot_*/
+*.csv
+snapshot.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
